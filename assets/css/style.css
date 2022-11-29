@@ -1,0 +1,40 @@
+
+.myHeader{
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+}
+
+.p2,.p1{
+    align-self: center;
+    margin-right:10px;
+}
+.myTime{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.mainCls{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.modalh{
+    text-align: center;
+    margin-top: 40px;
+    background-color: #FF6F61;
+    height: 70px;
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+}
+.mysection{
+    margin: 20px;
+    border: 1px black solid;
+padding: 30px;
+text-align: center;
+}
+.div2{
+width: 800px;
+}
